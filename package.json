@@ -1,5 +1,5 @@
 {
-  "name": "devtron",
+  "name": "@m1cr0m1nd/devtron",
   "version": "1.4.0",
   "description": "Electron DevTools Extension",
   "main": "./api.js",
@@ -9,6 +9,9 @@
     "test": "mocha test/unit/*-test.js test/integration/*-test.js && standard",
     "prepack": "check-for-leaks",
     "prepush": "check-for-leaks"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
