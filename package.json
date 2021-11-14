@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron/devtron.git"
+    "url": "git+https://github.com/m1cr0m1nd/devtron.git"
   },
   "author": "Kevin Sawicki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/electron/devtron/issues"
+    "url": "https://github.com/m1cr0m1nd/devtron/issues"
   },
   "keywords": [
     "Electron",
@@ -29,7 +29,7 @@
     "devtools",
     "developer tools"
   ],
-  "homepage": "https://github.com/electron/devtron#readme",
+  "homepage": "https://github.com/m1cr0m1nd/devtron#readme",
   "devDependencies": {
     "body-parser": "^1.19.0",
     "browserify": "^17.0.0",
